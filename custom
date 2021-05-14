@@ -2,3 +2,7 @@ twitch.tv
 twitchcdn.net
 ttvnw.net
 jtvnw.net
+*.twitch.tv
+*.twitchcdn.net
+*.ttvnw.net
+*.jtvnw.net
